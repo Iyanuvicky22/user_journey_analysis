@@ -124,8 +124,10 @@ showing a possible high turnover of users to be paying customers.
 **Raw Data**: `15.3pages`
    - This show the average length of pages an individual user in a session 
    visited.
+
 **Collated Pages Data**: `119.3pages`
    - This shows the average pages length for all collated sessions of users. 
+
 **Cleaned_collated Pages Data**: `91.4pages`
    - This shows the average pages length for all collated sessions of users.
    having removed redundant pages like `Log in` and `Others`.
